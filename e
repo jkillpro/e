@@ -4,8 +4,8 @@
 // @require      https://code.jquery.com/jquery-latest.min.js
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @match        *.google.com/*
 // @match        *://flyordie.io/*
+// @match        *.google.com/*
 // ==/UserScript==
 
 
